@@ -28,4 +28,4 @@ Add a branch "dev"
 
 
                                                                 I'm chwho.
-Creating a new branch is quick AND simple
+Creating a new breanch is quick & simple
